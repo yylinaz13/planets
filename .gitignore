@@ -1,5 +1,5 @@
-*.dat
+*.dat			#ignore all data files
 results/
 results/data
 results/plots
-
+!final.dat		#except final.data
